@@ -66,7 +66,7 @@
 ![WSL](https://img.shields.io/badge/WSL-2E8B57?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 
 ---
@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,6 +91,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rikiruswandii&icon=0&color=0" alt="Profile Views" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=rikiruswandii" alt="Profile Views" />
   </a>
 </p>
