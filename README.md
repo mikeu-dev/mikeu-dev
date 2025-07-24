@@ -76,21 +76,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=rikiruswandii" alt="Profile Views" />
-  </a>
-</p>
