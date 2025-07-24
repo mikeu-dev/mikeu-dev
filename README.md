@@ -1,7 +1,10 @@
-<img src="./github-header-image.png" alt="Header Image" />
 
 <h1 align="center">Hi there 👋, I'm Riki Ruswandi (Mikeu)</h1>
 <h3 align="center">A Passionate Developer from Indonesia</h3>
+
+Saya adalah seorang developer asal Indonesia yang senang mempelajari hal-hal baru, khususnya di bidang pemrograman dan teknologi. Saat ini saya sedang mengeksplorasi bidang **Reverse Engineering** dan aktif mengembangkan berbagai proyek berbasis web maupun GIS.
+
+Saya percaya bahwa konsistensi, rasa ingin tahu, dan semangat berbagi adalah kunci dalam dunia pengembangan perangkat lunak.
 
 ---
 
@@ -71,12 +74,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiruswandii&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
