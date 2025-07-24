@@ -2,13 +2,13 @@
 <h1 align="center">Hi there 👋, I'm Riki Ruswandi (Mikeu)</h1>
 <h3 align="center">A Passionate Developer from Indonesia</h3>
 
-Saya adalah seorang developer asal Indonesia yang senang mempelajari hal-hal baru, khususnya di bidang pemrograman dan teknologi. Saat ini saya sedang mengeksplorasi bidang **Reverse Engineering** dan aktif mengembangkan berbagai proyek berbasis web maupun GIS.
+Saya adalah seorang developer asal Indonesia yang senang mempelajari hal-hal baru, khususnya di bidang pemrograman dan teknologi. Saat ini saya sedang mengeksplorasi bidang **Fullstack Developer** dan aktif mengembangkan berbagai proyek berbasis web maupun GIS.
 
 Saya percaya bahwa konsistensi, rasa ingin tahu, dan semangat berbagi adalah kunci dalam dunia pengembangan perangkat lunak.
 
 ---
 
-- 🌱 Currently exploring **Reverse Engineering**
+- 🌱 Currently exploring **Fullstack Developer**
 - 📫 Reach me at **rikiruswandi28@gmail.com**
 - 🎓 Studying at **STMIK Mardira Indonesia**
 - ⚡ Fun fact: I like cats, but my mother doesn’t
