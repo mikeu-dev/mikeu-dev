@@ -2,18 +2,17 @@
 <h1 align="center">Hi there 👋, I'm Riki Ruswandi (Mikeu)</h1>
 <h3 align="center">A Passionate Developer from Indonesia</h3>
 
-Saya adalah seorang developer asal Indonesia yang senang mempelajari hal-hal baru, khususnya di bidang pemrograman dan teknologi. Saat ini saya sedang mengeksplorasi bidang **Fullstack Developer** dan aktif mengembangkan berbagai proyek berbasis web maupun GIS.
+I am a developer from Indonesia who enjoys learning new things, especially in the field of programming and technology. Currently, I am exploring the field of **Web Development** and actively working on various web-based and GIS projects.
 
-Saya percaya bahwa konsistensi, rasa ingin tahu, dan semangat berbagi adalah kunci dalam dunia pengembangan perangkat lunak.
+I believe that consistency, curiosity, and a spirit of sharing are the keys to success in the world of software development.
 
 ---
 
-- 🌱 Currently exploring **Fullstack Developer**
+- 🌱 Currently exploring **Web Developer**
 - 📫 Reach me at **rikiruswandi28@gmail.com**
 - 🎓 Studying at **STMIK Mardira Indonesia**
 - ⚡ Fun fact: I like cats, but my mother doesn’t
-- 💡 Inspired by **Nikola Tesla**
-- 💻 I spend more time with my keyboard than anything else
+- 💻 I enjoy working on spatial data projects.
 - 🚀 Always moving forward: *"Proceeding as Planned"*
 
 ---
