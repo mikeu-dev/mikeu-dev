@@ -13,7 +13,7 @@ I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the k
 - 🎓 Studying at **STMIK Mardira Indonesia**
 - 📫 Reach me at **rikiruswandi28@gmail.com**
 - ⚡ Fun fact: I like cats, but my mother doesn’t 😅
-- 🚀 Life motto: *"No detour can stop my mission."*
+- 🚀 Life motto: *"Even a detour leads to a dream."*
 
 ---
 
