@@ -13,17 +13,7 @@ I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the k
 - 🎓 Studying at **STMIK Mardira Indonesia**
 - 📫 Reach me at **rikiruswandi28@gmail.com**
 - ⚡ Fun fact: I like cats, but my mother doesn’t 😅
-- 🚀 Life motto: *"Proceeding as Planned"*
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/riki-ruswandi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- 🚀 Life motto: *"No detour can stop my mission."*
 
 ---
 
@@ -44,7 +34,6 @@ I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the k
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
 
 ### 🗺️ GIS & Mapping  
 ![Leaflet](https://img.shields.io/badge/leaflet-199900?style=flat&logo=leaflet&logoColor=white)
