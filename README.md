@@ -8,7 +8,7 @@ I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the k
 
 ---
 
-- 🌱 Currently exploring **Web Development & GIS Integration**
+- 🌱 Currently exploring **Software Engineer**
 - 💻 Passionate about **spatial data visualization** using tools like Leaflet and OpenLayers
 - 🎓 Studying at **STMIK Mardira Indonesia**
 - 📫 Reach me at **rikiruswandi28@gmail.com**
