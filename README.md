@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web & GIS Developer from Indonesia</h3>
 
 I am a developer from Indonesia who enjoys learning new things — especially in programming, web development, and geospatial technology.  
-Currently, I am focusing on **Web Development** and working on several **web-based GIS projects**.
+Currently, I am focusing on **Web Development** and working on several **web-based projects**.
 
 I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the keys to growth in the software development world.
 
