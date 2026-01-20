@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Riki Ruswandi (Mikeu)</h1>
-<h3 align="center">A Passionate Web & GIS Developer from Indonesia</h3>
+<h3 align="center">A Passionate Fullstack Web Developer from Indonesia</h3>
 
 I am a developer from Indonesia who enjoys learning new things — especially in programming, web development, and geospatial technology.  
 Currently, I am focusing on **Web Development** and working on several **web-based projects**.
@@ -46,18 +46,6 @@ I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the k
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-2E8B57?style=flat&logo=windows&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeu-dev&show_icons=true&theme=radical" alt="Riki's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeu-dev&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
