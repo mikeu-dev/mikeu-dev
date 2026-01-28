@@ -8,15 +8,15 @@ I am particularly interested in **software engineering practices**, **system des
 
 ---
 
-- 🔧 Currently working as a **Fullstack Web Developer** in a startup environment  
-- 🌱 Actively developing skills toward **Software Engineering**
-- 🗺️ Strong interest in **spatial data & web mapping** (Leaflet, OpenLayers)
-- 🎓 Computer Science student at **STMIK Mardira Indonesia**
-- 📫 Contact: **rikiruswandi28@gmail.com**
+- Currently working as a **Fullstack Web Developer** in a startup environment  
+- Actively developing skills toward **Software Engineering**
+- Strong interest in **spatial data & web mapping** (Leaflet, OpenLayers)
+- Computer Science student at **STMIK Mardira Indonesia**
+- Contact: **rikiruswandi28@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend & Databases  
 PHP · Laravel · MySQL · REST API
@@ -33,4 +33,4 @@ Git · Docker · Postman · Firebase · Vercel · WSL
 
 ---
 
-⭐️ *Focused on building reliable systems, writing maintainable code, and continuously improving as an engineer.*
+<h3 align="center">*Focused on building reliable systems, writing maintainable code, and continuously improving as an engineer.*</h3>
