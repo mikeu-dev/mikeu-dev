@@ -1,52 +1,36 @@
-<h1 align="center">Hi there 👋, I'm Riki Ruswandi (Mikeu)</h1>
-<h3 align="center">A Passionate Fullstack Web Developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Riki Ruswandi (Mikeu)</h1>
+<h3 align="center">Fullstack Web Developer · Aspiring Software Engineer</h3>
 
-I am a developer from Indonesia who enjoys learning new things — especially in programming, web development, and geospatial technology.  
-Currently, I am focusing on **Web Development** and working on several **web-based projects**.
+I am a fullstack web developer based in Indonesia with hands-on experience building **end-to-end web systems** in startup environments.  
+My work covers frontend, backend, database design, API integration, and deployment to production.
 
-I believe that *consistency*, *curiosity*, and *the spirit of sharing* are the keys to growth in the software development world.
+I am particularly interested in **software engineering practices**, **system design**, and **geospatial web applications**.
 
 ---
 
-- 🌱 Currently exploring **Software Engineer**
-- 💻 Passionate about **spatial data visualization** using tools like Leaflet and OpenLayers
-- 🎓 Studying at **STMIK Mardira Indonesia**
-- 📫 Reach me at **rikiruswandi28@gmail.com**
-- ⚡ Fun fact: I like cats, but my mother doesn’t 😅
-- 🚀 Life motto: *"Even a detour leads to a dream."*
+- 🔧 Currently working as a **Fullstack Web Developer** in a startup environment  
+- 🌱 Actively developing skills toward **Software Engineering**
+- 🗺️ Strong interest in **spatial data & web mapping** (Leaflet, OpenLayers)
+- 🎓 Computer Science student at **STMIK Mardira Indonesia**
+- 📫 Contact: **rikiruswandi28@gmail.com**
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Backend & Databases  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+### Backend & Databases  
+PHP · Laravel · MySQL · REST API
 
-### 🎨 Frontend Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+### Frontend  
+HTML · CSS · JavaScript · TypeScript  
+React · Svelte · SvelteKit · Next.js · Tailwind CSS
 
-### 🗺️ GIS & Mapping  
-![Leaflet](https://img.shields.io/badge/leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/openlayers-1F6FEB?style=flat&logo=openlayers&logoColor=white)
+### GIS & Mapping  
+Leaflet · OpenLayers
 
-### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/git-fc6d26.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-2E8B57?style=flat&logo=windows&logoColor=white)
+### Tools & DevOps  
+Git · Docker · Postman · Firebase · Vercel · WSL
 
 ---
 
-⭐️ *“Keep learning, keep building, and keep sharing your knowledge.”*
+⭐️ *Focused on building reliable systems, writing maintainable code, and continuously improving as an engineer.*
