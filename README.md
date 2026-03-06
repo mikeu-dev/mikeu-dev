@@ -18,12 +18,9 @@ I am particularly interested in **software engineering practices**, **system des
 
 ## Tech Stack
 
-| Category                | Technologies                                                                               |
-| ----------------------- | ------------------------------------------------------------------------------------------ |
-| **Backend & Databases** | PHP · Laravel · MySQL · REST API                                                           |
-| **Frontend**            | HTML · CSS · JavaScript · TypeScript · React · Svelte · SvelteKit · Next.js · Tailwind CSS |
-| **GIS & Mapping**       | Leaflet · OpenLayers                                                                       |
-| **Tools & DevOps**      | Git · Docker · Postman · Firebase · Vercel · WSL                                           |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,svelte,nextjs,tailwind,docker,git,firebase" />
+</p>
 
 
 ---
