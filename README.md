@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Riki Ruswandi (Mikeu)</h1>
-<h3 align="center">Fullstack Web Developer · Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-I am a fullstack web developer based in Indonesia with hands-on experience building **end-to-end web systems** in startup environments.  
-My work covers frontend, backend, database design, API integration, and deployment to production.
-
-I am particularly interested in **software engineering practices**, **system design**, and **geospatial web applications**.
+Software Engineer specializing in full-stack application development, enterprise systems, government platforms, GIS
+solutions, and workflow automation.
+Experienced in designing scalable architectures, developing modern web applications with Laravel, SvelteKit, TypeScript,
+and Node.js, and implementing REST API integrations, geospatial technologies, and DevOps practices using Docker and
+CI/CD pipelines.
+Passionate about leveraging automation, AI integration, and Retrieval-Augmented Generation (RAG) technologies to build
+efficient, reliable, and maintainable software solutions that solve real-world business problems.
 
 ---
 
