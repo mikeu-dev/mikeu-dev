@@ -22,7 +22,13 @@ efficient, reliable, and maintainable software solutions that solve real-world b
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,svelte,nextjs,tailwind,docker,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,nodejs,js,ts,react,svelte,nextjs,bootstrap,tailwind,vite,docker,nginx,linux,git,github,firebase,aws,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
 
