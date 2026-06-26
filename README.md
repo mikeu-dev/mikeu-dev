@@ -22,7 +22,7 @@ efficient, reliable, and maintainable software solutions that solve real-world b
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,nodejs,js,ts,react,svelte,nextjs,bootstrap,tailwind,vite,docker,nginx,linux,git,github,firebase,aws,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,nodejs,js,ts,react,svelte,nextjs,bootstrap,tailwind,vite,docker,nginx,linux,git,github,firebase,python" />
 </p>
 
 <p align="center">
